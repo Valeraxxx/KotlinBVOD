@@ -6,6 +6,7 @@ import com.bvod.execution.*
 fun main(){
     //START DIALOGUE (UI)
     val l = isBSInstalled(bspak)
+    println(l)
     //START CONSOLE DISPLAY
 }
 
